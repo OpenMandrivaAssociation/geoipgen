@@ -1,7 +1,7 @@
 Summary:	Country-to-IPs generator. Geographic IP generator for IPv4 networks
 Name:		geoipgen
 Version:	0.4
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	BSD
 Group:		Networking/Other
 URL:		http://www.morningstarsecurity.com/research/geoipgen
