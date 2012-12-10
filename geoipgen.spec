@@ -36,3 +36,17 @@ rm -rf %{buildroot}
 %doc README INSTALL
 %{_bindir}/geoipgen
 
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4-2mdv2011.0
++ Revision: 610829
+- rebuild
+
+* Tue Mar 09 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4-1mdv2010.1
++ Revision: 517049
+- import geoipgen
+
+
+* Tue Mar 09 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4-1mdv2010.0
+- initial Mandriva package
