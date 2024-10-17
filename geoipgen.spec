@@ -4,7 +4,7 @@ Version:	0.4
 Release:	3
 License:	BSD
 Group:		Networking/Other
-URL:		http://www.morningstarsecurity.com/research/geoipgen
+URL:		https://www.morningstarsecurity.com/research/geoipgen
 Source0:	http://geoipgen.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildArch:	noarch
 Requires:	ruby
